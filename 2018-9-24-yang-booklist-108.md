@@ -2,6 +2,8 @@
 
  [原创： 开智微播 <a id="js_name"></a>开智学堂 _2015-10-21_](https://mp.weixin.qq.com/s?__biz=MzA4ODM4ODQ3MQ==&mid=400076417&idx=1&sn=9a4213a1ca1feca712b19b37637d3807#rd)
 
+ [豆瓣书单link](https://www.douban.com/doulist/41691053/?start=0&sort=seq&playable=0&sub_type=)
+
 > 未来已经来临，只是分布不均等。信息不再饥渴，只是已经过载。学如逆水行舟，但信息汪洋，怎能独木舟？
 >
 > 因此，你需要用信任来过滤信息，站在时间源头，看潺潺溪流，肆意大海。
